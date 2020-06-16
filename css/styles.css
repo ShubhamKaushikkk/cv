@@ -1,0 +1,124 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 200%;
+}
+h1{
+  color:  #66BFBF;
+}
+h2{
+  color:  #66BFBF;
+}
+h3{
+  color: #11999E;
+}
+hr{
+  width: 10%;
+  border-style: dotted;
+  color: #bbbbbb;
+  border-width: 15px;
+  border-bottom: 0;
+}
+.topContainer{
+
+  background-color: #ddf3f5;
+  font-size: 30px;
+  font-style: italic;
+  position: relative;
+  height: 800px;
+}
+.middleContainer{
+
+}
+.bottomContainer{
+background-color: #66BFBF;
+color: white;
+
+}
+.bird{
+  position: absolute;
+  top: 400px;
+  right: 520px;
+}
+.sun{
+    position:absolute;
+    left:-145px;
+    top:-145px;
+}
+.cloud1{
+  position: absolute;
+  top: 200px;
+  left: 320px;
+}
+.cloud2{
+  position: absolute;
+  top: 20px;
+  right: 300px;
+}
+.mountain{
+  position: absolute;
+  bottom: 0;
+  left: 560px;
+}
+.text1{
+  position: absolute;
+  right: 570px;
+  top: 180px;
+  margin-top: 0;
+  font-size: 3.75rem;
+}
+.text2{
+  position: absolute;
+  right: 575px;
+  top: 215px;
+  font-size: 40px;
+  font-weight: normal;
+  color:  #66BFBF;
+}
+.skill-row{
+width: 50%;
+margin:100px auto 100px auto;
+text-align: left;
+line-height: 200%;
+}
+.music{
+  width: 40%;
+  height: 40%;
+  float: left;
+  margin-right: 30px;
+}
+.photography{
+  width: 40%;
+  height: 40%;
+  float: right;
+  margin-left: 30px;
+}
+.profile{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.footer-link{
+  color: #11999E;
+  display: inline-block;
+
+}
+.baseless{
+  margin-bottom: 0;
+}
+.btn{
+  display: inline-block;
+  background-color: #66BFBF;
+  color: white;
+  cursor: pointer;
+}
+.btn:hover{
+  background-color: lightgreen;
+}
+.footer-link:hover{
+  background-color: lightgreen;
+}
+.contact-me{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
